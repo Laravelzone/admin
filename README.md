@@ -2,6 +2,6 @@
 
 
 
-##  Laravel 8 with Admin Panel
+##  Laravel 8  Admin Panel
 
 Laravel 8 with jetstream (Livewire & Tailwind css)
